@@ -29,48 +29,48 @@ Lecture 0: Into the rabbit hole
 
 Lecture 1: 게이트와 양자 회로 기본 작성법
 배울 내용
->Single qubit gate \\
->multiple qubit gate
->Add barriers
->Basic info of Quantum Circuit - Depth
->Manipulate quantum circuit - extend
->Sample test + lab materials
+>Single qubit gate  
+>multiple qubit gate  
+>Add barriers  
+>Basic info of Quantum Circuit - Depth  
+>Manipulate quantum circuit - extend  
+>Sample test + lab materials  
 
 Lecture 2: 양자 회로의 측정과 OpenQasm
 배울 내용
->Measure quantum circuit
->Syntax
->How to use classical register
->OpenQasm
->>import OpenQasm 
->>export OpenQasm
+>Measure quantum circuit  
+>Syntax  
+>How to use classical register  
+>OpenQasm  
+>>import OpenQasm   
+>>export OpenQasm  
+>
+>Sample test + lab materials  
+
+Lecture 3: 양자 백엔드(시뮬레이터, 실제 백엔드)에 양자회로 실행하기  
+배울 내용  
+>circuit execution commands and options   
+>Backend options and how to use  
+>>Basic Aer  
+>>Aer  
+>>Real device  
 >
 >Sample test + lab materials
 
-Lecture 3: 양자 백엔드(시뮬레이터, 실제 백엔드)에 양자회로 실행하기
-배울 내용
->circuit execution commands and options 
->Backend options and how to use
->>Basic Aer
->>Aer
->>Real device
->
->Sample test + lab materials
 
-
-Lecture 4: 양자 회로 및 회로의 정보와 실행 결과를 그리고 해석하기
-배울 내용
->Visualization
->>Circuit visualization
->>Quantum info visualization (QSphere, Bloch vector etc)
->>Result visualization
+Lecture 4: 양자 회로 및 회로의 정보와 실행 결과를 그리고 해석하기  
+배울 내용  
+>Visualization  
+>>Circuit visualization  
+>>Quantum info visualization (QSphere, Bloch vector etc)  
+>>Result visualization  
 >
->Sample test + lab materials
+>Sample test + lab materials  
 
 Lecture 5: 유용한 기능들
-배울 내용
->Quantum Information and Auxiliary functions 
->Compare and Construct quantum information
->Use Qiskit Toolkit
->Display and use system information
->Sample test + lab materials
+배울 내용  
+>Quantum Information and Auxiliary functions   
+>Compare and Construct quantum information  
+>Use Qiskit Toolkit  
+>Display and use system information  
+>Sample test + lab materials  
