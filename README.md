@@ -7,9 +7,9 @@
 이 강의 노트를 커뮤니티 여러분과 함께 만들어가기 원합니다! 기여를 원하시는 분들은 Readme의 "제작 및 검수에 참여한 사람들"에 여러분의 이름을 추가하신 후 컨텐츠를 추가, 수정하여 PR을 보내주세요.
 
 <b>제작 및 검수에 참여한 사람들:</b>
-[신소영](@0sophy1)
 
-[Your Name Here](@your-github-handle)
+- [신소영](@0sophy1)
+- [Your Name Here](@your-github-handle)
 
 <b>많은 도움이 된 자료들</b>
 1. [Qiskit 공식 교육 자료](http://qiskit.org/learn)
