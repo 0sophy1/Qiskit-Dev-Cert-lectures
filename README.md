@@ -29,7 +29,7 @@ Lecture 0: Into the rabbit hole
 
 Lecture 1: 게이트와 양자 회로 기본 작성법
 배울 내용
->Single qubit gate //
+>Single qubit gate \\
 >multiple qubit gate
 >Add barriers
 >Basic info of Quantum Circuit - Depth
