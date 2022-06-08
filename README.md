@@ -8,6 +8,7 @@
 
 <b>제작 및 검수에 참여한 사람들:</b>
 [신소영](@0sophy1)
+
 [Your Name Here](@your-github-handle)
 
 <b>많은 도움이 된 자료들</b>
